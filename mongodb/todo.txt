@@ -1,0 +1,10 @@
+REST API - JSON
+
+Get - /users - Fetch all the users - Done
+
+Get - /users/1 - Fetch the user with I'd 1.
+Get - /users/2 - Fetch the user with I'd 2.
+
+Get - /users/:id - 
+
+

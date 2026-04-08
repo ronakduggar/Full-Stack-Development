@@ -1,1 +1,1 @@
-Request received on: GET - /html/users
+Request received on: POST - /rest/users
